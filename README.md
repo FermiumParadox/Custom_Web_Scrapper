@@ -21,12 +21,11 @@ A Python-based web scraper that collects upcoming game release data from GameSpo
 
 ## 🖼️ Screenshots
 
-### 🔹 Scraped Output Preview
+### 🔹 Scraped Output Preview part 1
 
 ![Output 1](images/output_1.png)
 
-### 🔹 Another Example
-
+### 🔹 AScraped Output Preview part 2
 ![Output 2](images/output_2.png)
 
 ---

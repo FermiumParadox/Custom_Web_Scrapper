@@ -33,15 +33,13 @@ A Python-based web scraper that collects upcoming game release data from GameSpo
 ## 📁 Project Structure
 
 day-93-custom-web-scraper/
-│
 ├── fetch.py
 ├── games_2026.csv
 ├── images/
-│   ├── output_1.png
-│   └── output_2.png
+│ ├── output_1.png
+│ └── output_2.png
 ├── README.md
 └── .gitignore
-
 ---
 
 ## ⚙️ Tech Stack
